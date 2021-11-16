@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Steven Barnett</h1>
 <h3 align="center">Full stack web developer from California</h3>
 
+<p align="center> Full Stack Software Engineer | Javascript | Python | React | Redux | Express | Sequelize | Flask | SQLAlchemy | Ruby on Rails | ActiveRecord </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stevenbarnett1&label=Profile%20views&color=0e75b6&style=flat" alt="stevenbarnett1" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenbarnett1" alt="stevenbarnett1" /></a> </p>
